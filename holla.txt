@@ -1,0 +1,411 @@
+﻿
+1.1 Scope of Agreement. Subject to the terms and conditions of this Agreement, Vendor shall (i) build,
+install and deploy a radio access network (“RAN”) at certain Cell Sites in one or more states for AT&T
+and its Affiliates as more particularly described in Addendum 1: Network Build and Structured
+Payments (the “Build Addendum”) attached hereto, (ii) provide ongoing maintenance of the RAN
+network constructed by Vendor pursuant to the Build Addendum as more particularly described in
+Addendum 2: Maintenance (the “Maintenance Addendum”) attached hereto and (iii) provide to AT&T
+certain other Material and Services related thereto as described herein and therein. In exchange for the
+provision of the Material and Services set forth in the Build Addendum, the Parties agree that AT&T will
+pay to Vendor the Structured Payments (as such term is defined in the Build Addendum) and in exchange
+for the provision of the Material and Services set forth in the Maintenance Addendum, the Parties agree
+that AT&T will pay to Vendor the Maintenance Fees (as such term is defined in the Maintenance
+Addendum). Vendor agrees that the Material and Services provided pursuant to this Agreement, the Build
+Addendum and the Maintenance Addendum shall strictly conform to the Specifications contained herein
+and therein.
+Concurrently herewith, the Parties or their Affiliates have entered into (i) that certain Cell Site Backhaul
+Master Services Agreement between Vendor and AT&T Corp. pursuant to which Vendor is responsible
+for providing transport services from the Cell Sites to AT&T’s designated MTSO (the “Transport
+Agreement”) and (ii) that certain Master License Agreement that governs all site license agreements
+between AT&T and Vendor (or its Affiliates) for the Cell Sites (the “Master License Agreement”).
+1.2 Term of Agreement. The “Term” of this Agreement shall commence on the Effective Date and shall
+continue in full force and effect until the expiration or earlier termination of the last Addendum to expire or
+be terminated, at which time this Agreement will expire, unless this Agreement is sooner terminated in
+accordance with the terms and provisions of this Agreement.
+2.0 Definitions
+2.1 Affiliate. “Affiliate” of a Person means any other Person, directly or indirectly, through one or more
+intermediaries, Controlling, Controlled by or under common Control with such Person or any other
+Person in which such Person beneficially owns a majority of the outstanding capital stock, membership
+interests or partnership interests.
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+1
+st
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+2.2 Agreement. “Agreement” means the written agreement between the Parties as set forth in this
+document and the attached addendums, exhibits, schedules and appendices and shall include the terms of
+such other documents as are incorporated by express reference in this document and the attached
+addendums, exhibits, schedules and appendices. All references herein to this Agreement shall include the
+Build Addendum and the Maintenance Addendum and all attachments, exhibits and schedules attached
+thereto, as amended from time to time.
+2.3 Attorney’s Fees. “Attorney’s Fees” include all reasonable outside counsel fees and expenses.
+2.4 AT&T Competitor. “AT&T Competitor” means [***].
+2.5 AT&T Indemnified Parties. “AT&T Indemnified Parties” means AT&T and its Affiliates, as well as
+their respective officers, directors, employees, representatives and agents, individually or collectively, as
+the case may be, and all of their successors and assigns.
+2.6 Cell Site. “Cell Site” means a wireless communications tower or other structure on which cell site
+equipment is located, and for purposes of this Agreement shall refer to AT&T’s space on such structure
+and all of the AT&T Provided Equipment (as such term is defined in the Build Addendum) and Vendor
+Provided Equipment (as such term is defined in the Build Addendum), including all Material contemplated
+herein or in the Build Addendum, together with all related ground space and other property and rights
+ancillary thereto as set forth in the Master License Agreement and the applicable Site License for the
+Vendor Cell Sites or the applicable Tower Lease for the Third Party Cell Sites.
+2.7 Change Management Plan. “Change Management Plan” means the process to accommodate
+changes to the Specifications or Work set forth in Exhibit C attached hereto.
+2.8 Change of Control. “Change of Control” means any contract or transaction or series of related
+contracts or transactions (regardless of form or structure) that would directly result in the Control of a
+Person or its business or assets changing from one Person to another Person (alone or in combination with
+any other third Person).
+2.9 Change Order. “Change Order” means any written request by any Party hereto to make any change to
+the Work, including the Services, Material, Delivery Dates or Completion Dates, Specifications or other
+terms and conditions of this Agreement, that is authorized and approved in writing by the other Party in
+accordance with the Change Management Plan.
+2.10 Control. “Control” (including the terms “Controlling” and “Controlled by”) of a Person shall mean
+(i) holding fifty percent (50%) or more ownership or beneficial interest of income and capital of such
+Person; or (ii) having ownership of at least fifty percent (50%)
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+2
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+of the voting power or voting equity of such Person; or (iii) regardless of the percentage ownership interest
+held, having the ability to appoint a majority of the board of directors, managers or other governing body
+of such Person or otherwise direct management policies of such Person by contract or otherwise.
+2.11 Customer Information. “Customer Information” includes, to the extent received, observed,
+collected, stored, or accessed, in any way, in connection with this Agreement: AT&T’s or its Affiliates’
+customers’ names, addresses, and phone numbers, any such customer’s or its employee’s personal, health
+or financial information, authentication credentials, Internet activities, history, and/or patterns of use,
+information concerning accounts, network performance and usage information, web browsing and wireless
+application information, location information, any other information associated with a customer of AT&T
+or its Affiliates or with persons in the household of a customer of AT&T or its Affiliates, and any
+information available to AT&T, its Affiliates and/or the suppliers and/or subcontractors of AT&T or its
+Affiliates (for avoidance of doubt, including Vendor) by virtue of AT&T’s or its Affiliates’ relationship with
+customers as a provider of mobile and non-mobile communications, Internet, data, video, information or
+other services, including the quantity, technical configuration, location, type, destination, and amount of use
+of communications or other services subscribed to, and information contained on the bills of AT&T’s or its
+Affiliates’ customers.
+2.12 Deliverable. “Deliverable” means any and all deliverables set forth in this Agreement, including all
+deliverables set forth in the Build Addendum and the Maintenance Addendum, which are to be provided
+by Vendor to AT&T pursuant to the terms of any exhibit, schedule or appendix attached hereto or thereto.
+Deliverables include, but are not limited to, any cell site configuration files, reports, data, designs, plans,
+specifications, models, prototypes, performance requirements, and/or Documentation delivered pursuant
+to this Agreement.
+2.13 Delivery or Completion. “Delivery” or “Completion” or any similar terms mean Vendor’s obligation
+to provide Material and Services that strictly conform to the Specifications, including, without limitation,
+Location Acceptance of the Cell Sites described in the Build Addendum. Vendor completes Delivery of
+Material or Completion of Services: (i) in the case of any Cell Site (and all Material and Services
+incorporated therein or related thereto) upon Location Acceptance, and (ii) in the case of delivery of
+Material or Services that are required to be delivered prior to or following Location Acceptance, (A)
+upon AT&T’s possession of the Material if Vendor is not required to provide additional Services, such as
+installation, (B) upon completing such additional Services, if Vendor is required to provide such Services in
+connection with providing Material, or (C) for Services, upon completing the provision of Services.
+Notwithstanding the above, Delivery and Completion shall not be deemed to have occurred until Vendor
+causes the Material and Services to strictly conform to the Specifications and in the case of any Cell Site,
+Location Acceptance has occurred.
+2.14 Delivery Date or Completion Date. “Delivery Date” or “Completion Date” means the date on
+which the Parties agree Vendor is scheduled in this Agreement or the Build
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+3
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+Addendum or Maintenance Addendum or as such date may be extended due to an Excusable Delay, as
+applicable, to complete its Delivery of Material and Completion of Services, as applicable.
+2.15 Documentation. “Documentation” means all documentation included with Vendor’s purchase of
+Vendor Provided Equipment, including user instructions, training materials and, if applicable, the source
+code for Software.
+2.16 Drug Screen. “Drug Screen” means the testing of any individual for the use of illicit drugs (including
+opiates, cocaine, cannabinoids, amphetamines, and phencyclidine (PCP)).
+2.17 Employment Claims. “Employment Claims” means any claims by any federal, state or local
+
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+4
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+2.20 Information. “Information”, with respect to a Party, means all confidential, proprietary or trade secret
+information, including discoveries, ideas, concepts, know-how, techniques, processes, procedures,
+designs, specifications, strategic information, proposals, requests for proposals, proposed products,
+drawings, blueprints, tracings, diagrams, models, samples, flow charts, data, computer programs,
+marketing plans, Customer Information (including Internet activities, history, and/or patterns of use),
+employee personal information, health or financial information, authentication credentials, and other
+technical, financial or business information, whether disclosed in writing, orally, or visually, in tangible or
+intangible form, including in electronic mail or by other electronic communication.
+2.21 Intellectual Property Rights. “Intellectual Property Rights” means all patents (including all
+reissues, divisions, continuations, and extensions thereof) and patent applications, trade names,
+trademarks, service marks, logos, trade dress, copyrights, trade secrets, mask works, rights in technology,
+know-how, rights in content (including performance and synchronization rights), or other intellectual
+property rights that are in each case protected under the Laws of any governmental authority having
+jurisdiction.
+2.22 Items. “Items” means any or all inventions, discoveries, ideas (whether patentable or not), and all
+works and materials, including but not limited to products, devices, computer programs, source codes,
+designs, files, specifications, texts, drawings, processes, data or other information or documentation in
+preliminary or final form, and all Intellectual Property Rights in or to any of the foregoing.
+2.23 Laws. “Laws” includes all federal, state, provincial, regional, territorial and local laws, statutes,
+ordinances, regulations, rules, executive orders, supervisory requirements, directives, circulars, opinions,
+interpretive letters and other official releases of or by any governmental authority.
+2.24 Liability. “Liability” means all losses, damages, expenses, costs, penalties, fines and fees, including
+Litigation Expenses, arising from or incurred in connection with a claim or cause of action related to
+performance or omission of acts under this Agreement, including, but not limited to, claims or causes of
+action brought by third parties.
+2.25 Lien. “Lien” means any mortgage, lien, pledge, security interest, charge, claim, restriction or other
+encumbrance of any nature whatsoever.
+2.26 Litigation Expense. “Litigation Expense” means any court filing fee, court cost, arbitration fee, and
+each other fee and cost of investigating or defending an indemnified claim or asserting any claim for
+indemnification or defense under this Agreement, including Attorney’s Fees, other professionals’ fees, and
+disbursements.
+2.27 Loss. “Loss” means any Liability, loss, claim, demand, suit, cause of action, settlement payment, cost,
+expense, interest, award, judgment, damage (including punitive damages), fine, fee, penalty, and Litigation
+Expense.
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+5
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+2.28 Material. “Material” means all units of equipment, apparatus, components, tools, supplies, material,
+
+Site that are not a result of the construction or maintenance of such Cell Site by Vendor.
+2.36 Services. “Services” means all of the services contemplated in the Build Addendum and the
+Maintenance Addendum (and all schedules thereto).
+2.37 Software. “Software” means any and all software (irrespective of whether it is Paid-For Development)
+and firmware in any form (including source code and object code), as well as any Documentation,
+licensed or otherwise provided by or on behalf of Vendor.
+2.38 Specifications. “Specifications” means (i) all of the Build Out Specifications set forth in the Build
+Addendum (and all schedules thereto, except as expressly waived by AT&T in writing), (ii) all of the
+specifications set forth in the Maintenance Addendum (and all schedules thereto) with respect to the
+Services contemplated therein, and (iii) all applicable OEM specifications.
+2.39 Subcontractor. “Subcontractor” means any Person (including an agent) supplying labor or materials
+to perform any or all of Vendor’s obligations under this Agreement, including any Person at any tier of
+subcontractors, and shall not be limited to those Persons with a direct relationship with Vendor.
+2.40 Suspend a Site, Suspend or Suspension. “Suspend a Site”, “Suspend” or “Suspension” means
+Vendor shall stop work on a Cell Site and not incur additional costs against the Cell Site and the
+Completion Date is suspended until AT&T notifies Vendor to resume work or AT&T terminates this
+Agreement with respect to such Cell Site.
+2.41 System. “System” means the hardware, operating system and application Software, interfaces, and
+databases that interact with Software.
+2.42 Third Party Loss. “Third Party Loss” means any Loss or Liability resulting from or relating to a claim
+or cause of action asserted by a third party.
+2.43 Vendor Indemnified Parties. “Vendor Indemnified Parties” means Vendor and its Affiliates, as well
+as their respective officers, directors, employees, representatives and agents, individually or collectively, as
+the case may be, and all of their successors and assigns.
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+7
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+2.44 Vendor Person. “Vendor Person” means any officer, director, employee, representative, agent,
+contractor or Subcontractor of Vendor and any officer, director, employee, representative or agent of any
+Vendor contractor or Subcontractor.
+2.45 Work. “Work” means all or any portion, as the case may be, of the Material, Deliverables and Services
+that Vendor is supplying pursuant to this Agreement, including all Material, Deliverables, Services and
+other Work contemplated in the Build Addendum and Maintenance Addendum (and all schedules
+thereto).
+2.46 Writing or Written. “Writing” or “Written” (whether or not capitalized) means a tangible document
+with an original signature or an electronic transmission of data pursuant to the Electronic Data Interchange
+(“EDI”) Section of this Agreement.
+3.0 General Terms
+3.1 Affiliate. An Affiliate of AT&T may transact business under this Agreement. References to “AT&T”
+h
+other Party with a debtor in bankruptcy or liquidation and which is not dismissed within forty-five (45) days
+after the effective service of same; or the appointment is made of a receiver, custodian or trustee of such other
+Party or for all or a substantial part of the assets of such other Party.
+(e) Termination Events. In addition to all other termination rights set forth herein, this Agreement may be
+terminated by AT&T or AT&T may terminate its obligations hereunder (including terminating only specific
+addendums or specific Cell Sites), upon the occurrence of (i) any Termination Event (as defined in the Build
+Addendum) applicable to one or more Cell Sites and upon such termination AT&T may exercise any or all of
+the Termination Remedies (as defined in the Build Addendum) available to it pursuant to the Build Addendum
+with respect to such impacted Cell Sites; or (ii) any termination (regardless of the reason therefor) of the
+Master License Agreement resulting in AT&T’s inability to use the impacted Cell Site.
+(f) Partial Termination - Whenever Law or a provision of this Agreement permits AT&T to terminate this
+Agreement with respect to a single Cell Site or group of Cell Sites or with respect to either the Build
+Addendum or Maintenance Addendum, AT&T may, at its option, terminate this Agreement in part with
+respect to such Addendum or on a Cell Site basis without further liability or obligation; provided that no such
+termination shall relieve AT&T’s obligation to make Structured Payments with respect to any Cell Sites that
+have reached Location Acceptance prior to the effective date of such termination and pay any Maintenance
+Fees for Services performed under the Maintenance Addendum prior to the effective date of such termination.
+The Parties acknowledge that the Build Addendum and Maintenance Addendum include specific partial
+termination rights on a Cell Site by Cell Site basis, including the Termination Remedies that allow for
+termination of AT&T’s obligations with respect to an individual Cell Site hereunder and special remedies to
+AT&T in connection with such termination.
+(g) Termination Charges – AT&T shall not be liable for any termination charges (or any charges for any Material
+or Services already ordered or performed at the time of termination) in any case when any termination results
+from a termination right granted to AT&T in this Agreement; provided that AT&T shall remain obligated to
+make Structured Payments with respect to any Cell Sites that have reached Location Acceptance prior to the
+effective date of such termination and pay any Maintenance Fees for Services performed under the
+Maintenance Addendum prior to the effective date of such termination.
+(h) Obligations upon Expiration or Termination - Upon expiration or termination of this Agreement, but prior
+to the effectiveness of full termination of the Agreement, AT&T may exercise any rights and remedies available
+to AT&T under this Agreement, at law or in equity, including AT&T’s right to exercise any one or more of the
+Termination Remedies set forth in the Build Addendum, and Vendor shall, upon the request and at the expense
+(other than termination in accordance with Subsection (c) hereof) of AT&T: (i) return all papers, materials,
+equipment, assets and property of AT&T held by Vendor, including title and ownership to all Material, (ii)
+provide reasonable assistance as may be necessary for the orderly, non-disrupted continuation of the Services,
+(iii) transfer all of the contracts related to the Cell Sites to AT&T
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+41
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+as contemplated in the Build Addendum and (iv) reimburse AT&T for any AT&T Provided Equipment or
+other assets that are not installed at a Cell Site and cannot be returned in good working order (based on the
+acquisition costs plus taxes and shipping costs). Vendor also agrees to assist AT&T in coordinating the transfer
+of the provision of the Services to a successor contractor, which shall include continuing to provide the
+required level of Services until the date of expiration or termination and providing the successor contractor
+with all pertinent information about the Services. For the purposes of clarity and notwithstanding any other
+provisions herein, no termination under this Agreement shall relieve AT&T’s obligation to make Structured
+Payments with respect to any Cell Sites that have reached Location Acceptance prior to the effective date of
+such termination and pay any Maintenance Fees for Services performed under the Maintenance Addendum
+prior to the effective date of such termination.
+3.38 Third Party Administrative Services
+(a) Vendor acknowledges that a third party administrator will perform certain administrative functions for AT&T in
+relation to this Agreement. Such administrative functions may include:
+(i) Collecting and verifying certificates of insurance;
+(ii) Providing financial analysis;
+(iii) Verifying certifications under the Section entitled “Utilization of Minority, Women, and Disabled Veteran
+Owned Business Enterprises”; and
+(iv) Collecting and verifying Vendor profile information.
+(b) Vendor shall cooperate with such third party administrator in its performance of such administrative functions
+and shall provide such data as from time to time the third party administrator may request. Further,
+notwithstanding any other provision of this Agreement, Vendor agrees that AT&T may provide any information
+regarding Vendor to such third party administrator. AT&T shall contractually require the third party
+administrator to maintain confidentiality of Vendor’s information with rights to use it solely for purposes of the
+administrative functions. Vendor agrees to pay the third party administrator an annual fee for the performance
+of these administrative functions, which annual fee shall not exceed three hundred dollars ($300.00), and a
+one-time set-up fee of thirty dollars ($30.00). AT&T agrees to reimburse Vendor for such fees listed as a line
+item expense on the invoice issued by Vendor to AT&T pursuant to Section 3.19 for the month immediately
+following such payment.
+3.39 Third Party Beneficiaries. All AT&T Affiliates receiving Material or Services under this Agreement
+and the federal government of the United States shall be express third party beneficiaries under this
+Agreement. Except to the extent expressly set forth to the contrary in this Agreement (including with
+respect to Affiliates of AT&T and the U.S. Government), there are no third party beneficiaries of this
+Agreement, and this Agreement shall not provide any third Person other than AT&T Affiliates and the
+U.S. Government with any
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+42
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+remedy, claim, liability, reimbursement, claim of action or other legal or equitable right in excess of those
+existing without reference to this Agreement.
+3.40 Title and Risk. Title to Material furnished by Vendor shall vest in AT&T immediately and automatically
+upon Location Acceptance (as defined in the Build Addendum) or, if after Location Acceptance of a Cell
+Site, with respect to any Material provided in connection with the Maintenance Addendum, when actually
+installed or incorporated in the Work; provided, if the Material was paid for or provided by AT&T prior
+to incorporation into the Work, title shall always be vested in AT&T; provided, further, in both cases
+Vendor shall retain risk of loss and damages to all of the Material (including all AT&T Provided Equipment
+(as such term is defined in the Build Addendum)) until Location Acceptance and thereafter to the extent
+such Material is in the custody or control of Vendor.
+3.41 Title To Material Furnished by AT&T. Title to material furnished by AT&T under this Agreement
+shall at all times be in AT&T’s name. Vendor assumes full responsibility for any loss or damage to such
+material while material is in Vendor’s or its Subcontractor’s possession or control and shall be liable for
+the full value of the material (which shall include AT&T’s acquisition cost plus all taxes and shipping).
+Vendor shall not allow or permit any Lien to be placed upon or otherwise encumber any AT&T Provided
+Equipment or other assets, properties or rights owned, operated or leased by AT&T or any of its
+Affiliates.
+AT&T may inspect and inventory the material furnished by AT&T under this Agreement during Vendor’s
+normal business hours. Prior to Location Acceptance, Vendor shall provide AT&T escorted access to the
+
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+obligations under this Agreement and Vendor will immediately notify AT&T if, during the Term,
+Vendor becomes aware of any such action, suit, or proceeding;
+(v) Vendor has, as of the Effective Date, and will continue to have during the Term of the Build Addendum or
+Maintenance Addendum, as applicable, all necessary skills, rights, and financial resources (including
+any required binding commitments for financing from third Persons) applicable to such obligations then
+in effect, and authority to enter into this Agreement, the Build Addendum or the Maintenance
+Addendum, including the authority to provide or license the Material or Services, and satisfy all of its
+obligations hereunder and thereunder;
+(vi) As of the Effective Date, no third party claim has been alleged against Vendor that any Material and
+Services provided hereunder infringes upon such third party’s intellectual property rights and Vendor
+will immediately notify AT&T if, during the Term, Vendor becomes aware of any such third party
+claim;
+(vii) No consent, approval, or withholding of objection is required from any entity, including any governmental
+authority, with respect to the entering into or the performance of this Agreement, the Build Addendum
+or the Maintenance Addendum;
+(viii) At the time of Location Acceptance (or, if later, at the time of Delivery), the Material and Services will be
+provided free of any Lien of any kind;
+(ix) Vendor will be fully responsible and liable for all acts, omissions, and Work performed by any of its
+representatives, including any Subcontractors;
+(x) All representatives, including Subcontractors, will strictly comply with the provisions specified in this
+Agreement and all applicable Laws;
+(xi) Vendor will strictly comply with the terms of this Agreement, the Build Addendum and the Maintenance
+Addendum, including those specified in any exhibits, schedules or appendices attached hereto or
+thereto; and
+(xii) All Material provided to AT&T hereunder shall be tested by or on behalf of Vendor prior to installation
+and prior to Location Acceptance to ensure its compliance with the Specifications.
+(c) All representations and warranties set forth above in Section 3.46(b) or elsewhere in this Agreement (other
+than the specific warranty periods specified in Section 3.46(a)) will survive expiration or termination of this
+Agreement for a period of [***] years from such expiration or termination; provided however, that any such
+representation and warranty that relates solely to the Build Services provided pursuant to the Build
+Addendum shall survive for a period of [***] years following Location Acceptance of all Cell Sites. The
+foregoing warranties will be in addition to all other warranties, express, implied or statutory. Vendor shall
+defend, indemnify and hold AT&T, its Affiliates, and their agents and representatives harmless from
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+46
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+and against all Third Party Losses arising out of or resulting from a breach of these representations and
+warranties, in accordance with the Section herein entitled “Indemnity”.
+(d) If at any time during the warranty period for Material or Services AT&T believes there is a breach of any
+warranty, AT&T will notify Vendor setting forth the nature of such claimed breach. Vendor shall promptly
+investigate such claimed breach and shall either (i) provide Information satisfactory to AT&T that no breach of
+warranty in fact occurred or (ii) at no additional charge to AT&T, promptly take such action as may be
+required to correct such breach. If the required corrective action is to re-perform the Services and/or repair
+the Material, and if Vendor fails or refuses to make such repairs and/or re-perform such Services, then, in
+addition to any other remedies, AT&T shall have the right, at its option, either (1) to perform such Services
+and to repair such Material itself or engage a third party to do so, in either case at Vendor’s expense; or (2) to
+receive a full refund of any amounts paid for such Material and Services. Vendor shall bear all transportation
+costs and risk of loss and damage in transit with respect to all Material transported in connection with this
+Section, and all repaired and replacement Material is warranted as provided herein.
+(e) If a breach of warranty for which Vendor is responsible has not been corrected within a commercially
+reasonable time, and such breach has caused material and irreparable damage and harm to AT&T, then upon
+thirty (30) days’ notice to Vendor, AT&T may terminate this Agreement with respect to the applicable Cell
+Site(s) without further liability to Vendor for those Cell Sites.
+3.46 Subcontractors; Work Done By Others.
+(a) If any part of Vendor’s Work is dependent upon work performed by others or subcontracted consistent with
+the terms herein, Vendor shall inspect and promptly report to AT&T any defect that renders such other work
+unsuitable for Vendor’s proper performance. Vendor’s silence shall constitute approval of such other work as
+fit, proper and suitable for Vendor’s performance of its Services or provision of Material.
+(b) Any use of, including any changes to the use of, a Subcontractor shall be subject to the requirements of this
+Section 3.46. Vendor shall provide and keep current a list of all Subcontractors and certain information about
+each such Subcontractor, including the identity of, the location of, and a complete description of the activities
+to be performed by such Subcontractor. Vendor will provide such list of Subcontractors to AT&T upon
+request. If AT&T notifies Vendor that a particular Subcontractor is unacceptable to AT&T because use of the
+Subcontractor could adversely affect the security of AT&T’s networks, or cause material financial harm to
+AT&T, or have a material and detrimental effect on AT&T’s reputation, Vendor shall promptly cease use of
+such Subcontractor and provide a replacement Subcontractor or perform the Services itself. Should Vendor
+fail or refuse to cease use of any Subcontractor and provide a substitute Subcontractor or perform the
+Services itself after AT&T’s request, AT&T shall have the right to terminate this Agreement. Where a portion
+of the Work is subcontracted, Vendor remains fully responsible for performance thereof and shall be
+responsible to AT&T for the acts and omissions of any Subcontractor, to the same extent as if such acts or
+omissions were performed by Vendor. Nothing in this Agreement shall create
+Proprietary and Confidential
+This Agreement and information contained therein is not for use or disclosure outside of AT&T, its Affiliates, and
+third party representatives, and Vendor except under written agreement by the contracting parties.
+47
+Source: ATN INTERNATIONAL, INC., 10-Q, 11/8/2019
+any contractual obligation or other liability of AT&T to any Subcontractor or its employees. Vendor shall
+require all Subcontractors performing Work on the project or who may enter upon the Work site to maintain
+the same insurance requirements as those set forth in the Section entitled “Insurance” of this Agreement.
+Vendor agrees to bind every Subcontractor to terms consistent with the terms of this Agreement. Prior to
+Location Acceptance of all Cell Sites pursuant to the Build Addendum, Vendor shall immediately notify AT&T
+of any (i) failure or inability of Vendor to pay to any Subcontractor or other Vendor Person when due any
+amount owed to such Subcontractor or Vendor Person or (ii) any claim, notice or action asserted by any such
+Subcontractor or Vendor Person of or relating to any such failure or inability to pay amounts when due.
+Following Location Acceptance of all Cell Sites pursuant to the Build Addendum, Vendor shall immediately
+notify AT&T of any (x) failure (in the absence of a good faith dispute) or inability of Vendor to pay to any
+Subcontractor or other Vendor Person when due any amount owed to such Subcontractor or Vendor Person
+or (y) any claim, notice or action asserted by any such Subcontractor or Vendor Person of or relating to any
+such failure (in the absence of a good faith dispute) or inability to pay amounts when due.
+3.47 Affordable Care Act. For purposes of the Affordable Care Act (ACA), and in particular for purposes
+of Section 4980H of the Internal Revenue Code of 1986, as amended, and the regulations thereunder,
+with respect to each individual provided by Vendor to work on AT&T project(s) for at least thirty (30)
+hours per week for at least ninety (90) days, whether consecutive or not, Vendor represents and warrants
+that it or one of its Subcontractors is the common law employer of such individual and shall be responsible
+for either providing healthcare coverage as required by the ACA (to the extent applicable) or for paying
+any Section 4980H assessable payments that may be required for failure to provide to such individual: (a)
+health care coverage, or (b) affordable healthcare coverage. In no event will AT&T be considered to be
+the common law employer of such individual for purposes of the ACA. Vendor shall maintain for a period
+of ten (10) years (or such shorter period as required by applicable Law) information to show compliance
+with the ACA notwithstanding any other provision in this Agreement to the contrary.
+3.48 Customer Information
